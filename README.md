@@ -34,6 +34,7 @@ Building on that solid foundation, I have continuously expanded my skill set—t
 ### 🛠️ Technologies & Tools Applied
 
 **Languages & Logic**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,6 +44,7 @@ Building on that solid foundation, I have continuously expanded my skill set—t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases & Systems**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -63,4 +65,19 @@ Building on that solid foundation, I have continuously expanded my skill set—t
 * ⚽ **Football (Soccer):** Following international tournaments, analyzing match statistics, and supporting **FC Barcelona**.
 * 🎧 **Audio Engineering & Sound Design:** Experimenting with custom frequency equalizations, high-fidelity audio codecs (LDAC, Dolby Atmos), and optimizing sound setups.
 * 🐧 **System Customization & Virtualization:** Tweaking Linux distros, experimenting with dual-boot setups, and learning low-level system administration.
-*
+---
+                                              "SI LO PUEDES IMAGINAR, LO PUEDES PROGRAMAR"
+---
+### 🌱 Currently Learning & Skill Progress
+
+| Skill / Topic | Progress | Level |
+| :--- | :--- | :--- |
+| **Advanced Java (OOP & Backend)** | ![68%](https://geps.dev/progress/68) | `68%` |
+| **Python & Data Analysis** | ![45%](https://geps.dev/progress/45) | `45%` |
+| **cisco packet traicer & networks** | ![41%](https://geps.dev/progress/41) | `41%` |
+| **Technical English Fluency** | ![22%](https://geps.dev/progress/22) | `22%` |
+| **PostgreSQL & Databases** | ![40%](https://geps.dev/progress/40) | `40%` |
+
+
+
+                                              

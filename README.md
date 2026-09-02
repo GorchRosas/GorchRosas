@@ -9,9 +9,9 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-4929-45b6-9d14-3074d79222db.gif" width="100%">
-      <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-    </td>
+ <img src="https://komarev.com/ghpvc/?username=GorchRosas&color=blueviolet&style=for-the-badge" width="80%">
+  
+  </td>
   </tr>
 </table>
 
